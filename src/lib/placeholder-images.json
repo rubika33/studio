@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "login-hero",
+      "description": "A vibrant image of a modern university campus.",
+      "imageUrl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx1bml2ZXJzaXR5JTIwY2FtcHVzfGVufDB8fHx8MTc1ODg3OTAyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "university campus"
+    },
+    {
+      "id": "portfolio-modern",
+      "description": "Preview of the modern portfolio template.",
+      "imageUrl": "https://images.unsplash.com/photo-1587116987928-21e47bd76cd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjByZXN1bWV8ZW58MHx8fHwxNzU4ODg3OTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern resume"
+    },
+    {
+      "id": "portfolio-classic",
+      "description": "Preview of the classic portfolio template.",
+      "imageUrl": "https://images.unsplash.com/photo-1621772304863-a65c644cd226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbGFzc2ljJTIwcmVzdW1lfGVufDB8fHx8MTc1ODg4Nzk0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "classic resume"
+    },
+    {
+      "id": "profile-avatar",
+      "description": "Default user profile avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9maWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzU4ODExMzUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile portrait"
+    }
+  ]
 }
